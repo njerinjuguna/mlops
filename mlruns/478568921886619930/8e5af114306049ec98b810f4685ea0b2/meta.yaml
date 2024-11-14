@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joyce/Documents/DATA_SCIENCE_Fellowship/Mlops/mlruns/478568921886619930/8e5af114306049ec98b810f4685ea0b2/artifacts
+end_time: 1731491092118
+entry_point_name: ''
+experiment_id: '478568921886619930'
+lifecycle_stage: active
+run_id: 8e5af114306049ec98b810f4685ea0b2
+run_name: fun-crane-992
+run_uuid: 8e5af114306049ec98b810f4685ea0b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731491090206
+status: 3
+tags: []
+user_id: joyce

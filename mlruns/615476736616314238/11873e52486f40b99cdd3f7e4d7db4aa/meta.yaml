@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joyce/Documents/DATA_SCIENCE_Fellowship/Mlops/mlruns/615476736616314238/11873e52486f40b99cdd3f7e4d7db4aa/artifacts
+end_time: 1731490536819
+entry_point_name: ''
+experiment_id: '615476736616314238'
+lifecycle_stage: active
+run_id: 11873e52486f40b99cdd3f7e4d7db4aa
+run_name: smiling-ape-261
+run_uuid: 11873e52486f40b99cdd3f7e4d7db4aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731490534260
+status: 3
+tags: []
+user_id: joyce

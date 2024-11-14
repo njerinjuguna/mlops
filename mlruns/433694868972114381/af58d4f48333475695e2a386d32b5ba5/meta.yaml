@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joyce/Documents/DATA_SCIENCE_Fellowship/Mlops/mlruns/433694868972114381/af58d4f48333475695e2a386d32b5ba5/artifacts
+end_time: 1731489955470
+entry_point_name: ''
+experiment_id: '433694868972114381'
+lifecycle_stage: active
+run_id: af58d4f48333475695e2a386d32b5ba5
+run_name: powerful-mouse-108
+run_uuid: af58d4f48333475695e2a386d32b5ba5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731489952932
+status: 3
+tags: []
+user_id: joyce

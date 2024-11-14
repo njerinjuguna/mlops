@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joyce/Documents/DATA_SCIENCE_Fellowship/Mlops/mlruns/478568921886619930/32cc922f30164dd2aa27fea896b38692/artifacts
+end_time: 1731490823745
+entry_point_name: ''
+experiment_id: '478568921886619930'
+lifecycle_stage: active
+run_id: 32cc922f30164dd2aa27fea896b38692
+run_name: resilient-goose-808
+run_uuid: 32cc922f30164dd2aa27fea896b38692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731490821626
+status: 3
+tags: []
+user_id: joyce

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joyce/Documents/DATA_SCIENCE_Fellowship/Mlops/mlruns/615476736616314238/a8088bab507a4144a51d89ed9698be07/artifacts
+end_time: 1731490549504
+entry_point_name: ''
+experiment_id: '615476736616314238'
+lifecycle_stage: active
+run_id: a8088bab507a4144a51d89ed9698be07
+run_name: resilient-gull-274
+run_uuid: a8088bab507a4144a51d89ed9698be07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731490547571
+status: 3
+tags: []
+user_id: joyce

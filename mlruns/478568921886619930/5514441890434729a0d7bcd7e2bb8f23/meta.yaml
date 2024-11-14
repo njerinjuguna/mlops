@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joyce/Documents/DATA_SCIENCE_Fellowship/Mlops/mlruns/478568921886619930/5514441890434729a0d7bcd7e2bb8f23/artifacts
+end_time: 1731491064775
+entry_point_name: ''
+experiment_id: '478568921886619930'
+lifecycle_stage: active
+run_id: 5514441890434729a0d7bcd7e2bb8f23
+run_name: gaudy-hare-634
+run_uuid: 5514441890434729a0d7bcd7e2bb8f23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731491062878
+status: 3
+tags: []
+user_id: joyce

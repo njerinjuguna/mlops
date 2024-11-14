@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joyce/Documents/DATA_SCIENCE_Fellowship/Mlops/mlruns/433694868972114381/9a51609db0ae4e9ba932bb8c8f518213/artifacts
+end_time: 1731490111163
+entry_point_name: ''
+experiment_id: '433694868972114381'
+lifecycle_stage: active
+run_id: 9a51609db0ae4e9ba932bb8c8f518213
+run_name: abrasive-frog-465
+run_uuid: 9a51609db0ae4e9ba932bb8c8f518213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731490108687
+status: 3
+tags: []
+user_id: joyce

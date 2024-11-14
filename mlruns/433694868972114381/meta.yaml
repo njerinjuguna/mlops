@@ -1,0 +1,6 @@
+artifact_location: file:///home/joyce/Documents/DATA_SCIENCE_Fellowship/Mlops/mlruns/433694868972114381
+creation_time: 1731489841415
+experiment_id: '433694868972114381'
+last_update_time: 1731489841415
+lifecycle_stage: active
+name: RandomForest_Experiment

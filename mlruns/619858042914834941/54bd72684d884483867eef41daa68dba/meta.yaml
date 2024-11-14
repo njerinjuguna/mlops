@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joyce/Documents/DATA_SCIENCE_Fellowship/Mlops/mlruns/619858042914834941/54bd72684d884483867eef41daa68dba/artifacts
+end_time: 1731490808294
+entry_point_name: ''
+experiment_id: '619858042914834941'
+lifecycle_stage: active
+run_id: 54bd72684d884483867eef41daa68dba
+run_name: peaceful-pug-148
+run_uuid: 54bd72684d884483867eef41daa68dba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731490806260
+status: 3
+tags: []
+user_id: joyce

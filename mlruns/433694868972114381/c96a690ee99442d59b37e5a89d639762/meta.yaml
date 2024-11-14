@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joyce/Documents/DATA_SCIENCE_Fellowship/Mlops/mlruns/433694868972114381/c96a690ee99442d59b37e5a89d639762/artifacts
+end_time: 1731490774928
+entry_point_name: ''
+experiment_id: '433694868972114381'
+lifecycle_stage: active
+run_id: c96a690ee99442d59b37e5a89d639762
+run_name: grandiose-perch-810
+run_uuid: c96a690ee99442d59b37e5a89d639762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731490772375
+status: 3
+tags: []
+user_id: joyce

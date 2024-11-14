@@ -1,0 +1,6 @@
+artifact_location: file:///home/joyce/Documents/DATA_SCIENCE_Fellowship/Mlops/mlruns/619858042914834941
+creation_time: 1731490126622
+experiment_id: '619858042914834941'
+last_update_time: 1731490126622
+lifecycle_stage: active
+name: SVM_Experiment

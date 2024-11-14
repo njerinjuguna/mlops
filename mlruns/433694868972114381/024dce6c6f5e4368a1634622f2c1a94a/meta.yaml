@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joyce/Documents/DATA_SCIENCE_Fellowship/Mlops/mlruns/433694868972114381/024dce6c6f5e4368a1634622f2c1a94a/artifacts
+end_time: 1731490525733
+entry_point_name: ''
+experiment_id: '433694868972114381'
+lifecycle_stage: active
+run_id: 024dce6c6f5e4368a1634622f2c1a94a
+run_name: brawny-dolphin-884
+run_uuid: 024dce6c6f5e4368a1634622f2c1a94a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731490523349
+status: 3
+tags: []
+user_id: joyce

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joyce/Documents/DATA_SCIENCE_Fellowship/Mlops/mlruns/619858042914834941/1a9672e65f50474c9f75aee93aa4dc42/artifacts
+end_time: 1731490126634
+entry_point_name: ''
+experiment_id: '619858042914834941'
+lifecycle_stage: active
+run_id: 1a9672e65f50474c9f75aee93aa4dc42
+run_name: rare-perch-637
+run_uuid: 1a9672e65f50474c9f75aee93aa4dc42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731490126625
+status: 4
+tags: []
+user_id: joyce

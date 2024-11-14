@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joyce/Documents/DATA_SCIENCE_Fellowship/Mlops/mlruns/619858042914834941/09cf11fb9d124903aa6aea2a4550b263/artifacts
+end_time: 1731490223015
+entry_point_name: ''
+experiment_id: '619858042914834941'
+lifecycle_stage: active
+run_id: 09cf11fb9d124903aa6aea2a4550b263
+run_name: valuable-sloth-754
+run_uuid: 09cf11fb9d124903aa6aea2a4550b263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731490221209
+status: 3
+tags: []
+user_id: joyce

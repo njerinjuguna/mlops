@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joyce/Documents/DATA_SCIENCE_Fellowship/Mlops/mlruns/433694868972114381/aa609187286f4557b88fed69dac83a96/artifacts
+end_time: 1731490119749
+entry_point_name: ''
+experiment_id: '433694868972114381'
+lifecycle_stage: active
+run_id: aa609187286f4557b88fed69dac83a96
+run_name: legendary-croc-284
+run_uuid: aa609187286f4557b88fed69dac83a96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731490117141
+status: 3
+tags: []
+user_id: joyce

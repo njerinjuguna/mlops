@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joyce/Documents/DATA_SCIENCE_Fellowship/Mlops/mlruns/615476736616314238/976dfbb8d2504a81a22a2e409c0499a3/artifacts
+end_time: 1731490796657
+entry_point_name: ''
+experiment_id: '615476736616314238'
+lifecycle_stage: active
+run_id: 976dfbb8d2504a81a22a2e409c0499a3
+run_name: able-rat-826
+run_uuid: 976dfbb8d2504a81a22a2e409c0499a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731490794447
+status: 3
+tags: []
+user_id: joyce

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joyce/Documents/DATA_SCIENCE_Fellowship/Mlops/mlruns/433694868972114381/82afeb07b1514a82b39608ebcacdd38a/artifacts
+end_time: 1731489844932
+entry_point_name: ''
+experiment_id: '433694868972114381'
+lifecycle_stage: active
+run_id: 82afeb07b1514a82b39608ebcacdd38a
+run_name: painted-fish-732
+run_uuid: 82afeb07b1514a82b39608ebcacdd38a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731489841676
+status: 3
+tags: []
+user_id: joyce

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joyce/Documents/DATA_SCIENCE_Fellowship/Mlops/mlruns/478568921886619930/80100eb6b9d94c3b92f22eb19af67fc2/artifacts
+end_time: 1731490339730
+entry_point_name: ''
+experiment_id: '478568921886619930'
+lifecycle_stage: active
+run_id: 80100eb6b9d94c3b92f22eb19af67fc2
+run_name: delicate-skunk-748
+run_uuid: 80100eb6b9d94c3b92f22eb19af67fc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731490337893
+status: 3
+tags: []
+user_id: joyce

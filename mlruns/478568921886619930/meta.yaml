@@ -1,0 +1,6 @@
+artifact_location: file:///home/joyce/Documents/DATA_SCIENCE_Fellowship/Mlops/mlruns/478568921886619930
+creation_time: 1731490245947
+experiment_id: '478568921886619930'
+last_update_time: 1731490245947
+lifecycle_stage: active
+name: LogisticRegression_Experiment
